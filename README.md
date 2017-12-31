@@ -13,4 +13,4 @@ Components used:
 - (2) push switches
 - (9) male-to-male jumper wires
 
-![ ](myRGB_LEDschematics/myRGB_LEDschematic.jpg)
+![ ](myRGB_LEDschematics/myRGB_LEDschematic.png)
