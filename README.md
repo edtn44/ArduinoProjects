@@ -18,3 +18,5 @@ RGB LED
 (2) push switches
 
 (9) male-to-male jumper wires
+
+myRGB_LEDschematic1.jpg
