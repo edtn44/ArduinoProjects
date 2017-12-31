@@ -1,7 +1,7 @@
 # ArduinoProjects
 Arduino code I've created/modified
 
-##Arduino Project #1
+## Arduino Project #1
 myRGB_LED: this arduino code changes a RGB LEDs color in a loop, and one push switch pauses the RGB LED at a color and the other push
 switch turns the RBG LED white
 
