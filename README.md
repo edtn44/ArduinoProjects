@@ -19,4 +19,4 @@ RGB LED
 
 (9) male-to-male jumper wires
 
-myRGB_LEDschematic1.jpg
+(myRGB_LEDschematic/myRGB_LEDschematic1.jpg)
