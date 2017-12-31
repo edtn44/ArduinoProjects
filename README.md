@@ -6,17 +6,11 @@ myRGB_LED: this arduino code changes a RGB LEDs color in a loop, and one push sw
 switch turns the RBG LED white
 
 Components used:
-
-Elegoo Uno R3
-
-830 Tie-points Breadboard
-
-RGB LED
-
-(3) 220 ohm resistors
-
-(2) push switches
-
-(9) male-to-male jumper wires
+- Elegoo Uno R3
+- 830 Tie-points Breadboard
+- RGB LED
+- (3) 220 ohm resistors
+- (2) push switches
+- (9) male-to-male jumper wires
 
 ![ ](myRGB_LEDschematics/myRGB_LEDschematic1.jpg)
